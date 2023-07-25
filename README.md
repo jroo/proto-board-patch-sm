@@ -10,3 +10,5 @@ While working on some new ideas, I put together this prototyping board to remove
 - more ground ports, more +3V3, fewer +5V
 - i2c improvements, space for pullups, allow multiple devices
 - ability to use ADC_9 TO ADC_12 for pots
+
+![image](https://github.com/jroo/proto-board-patch-sm/assets/49064/faf77e15-27fc-4add-87bb-b67abaeeaa85)
